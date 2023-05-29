@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+#inputs{
+    margin-bottom: 50px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    
+}
+#inputOne{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#inputTwo{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.buttonFour{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p{
+    padding-top: 50px;
+}
